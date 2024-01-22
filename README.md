@@ -1,3 +1,2 @@
 # project1-demo
-this is my first git repository
-by Anshu reddy
+machine learning projects
